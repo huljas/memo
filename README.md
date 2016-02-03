@@ -5,3 +5,7 @@ Random notes
 ## Docker
 
 - https://github.com/wsargent/docker-cheat-sheet
+
+## Consul 
+
+- https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/
