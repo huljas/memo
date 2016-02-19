@@ -17,3 +17,8 @@ Random notes
 
 - http://dave.cheney.net/resources-for-new-go-programmers
 - https://gobyexample.com/
+- 
+
+## Networking
+
+- http://chimera.labs.oreilly.com/books/1230000000545/index.html
