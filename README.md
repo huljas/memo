@@ -5,6 +5,7 @@ Random notes
 ## Docker
 
 - https://github.com/wsargent/docker-cheat-sheet
+- http://rancher.com/comparing-monitoring-options-for-docker-deployments/
 
 ## Consul 
 
@@ -12,6 +13,10 @@ Random notes
 - http://jlordiales.me/2015/04/01/consul-template/
 - https://github.com/alevm/dockers-catalog/tree/master/docker-nginx-consul
 - http://gliderlabs.com/registrator/latest/user/quickstart/
+
+## Kubernetes
+
+- http://kubernetes.io/
 
 ## Go
 
