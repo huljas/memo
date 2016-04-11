@@ -27,3 +27,11 @@ Random notes
 ## Networking
 
 - http://chimera.labs.oreilly.com/books/1230000000545/index.html
+- 
+
+## Mac
+
+```shell
+# Fix hostname
+sudo scutil --set HostName Heikkis-MBP.local
+```
